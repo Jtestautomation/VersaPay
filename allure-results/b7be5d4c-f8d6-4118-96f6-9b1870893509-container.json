@@ -1,0 +1,1 @@
+{"uuid":"b7be5d4c-f8d6-4118-96f6-9b1870893509","name":"qa.SignIn.LoginPage.versaPay.LoginPageTest","start":1559934016599,"stop":1559934027220,"children":["6ff8426a-55ef-4998-acc8-38066429e0f3"],"befores":[{"name":"beforeClassInLandingPage","status":"passed","stage":"finished","description":"","start":1559934016618,"stop":1559934016725}]}

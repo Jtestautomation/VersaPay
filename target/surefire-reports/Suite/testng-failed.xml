@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="qa.SignIn.LoginPage.versaPay.LandingPageTest">
+        <methods>
+          <include name="setUpInParent"/>
+          <include name="beforeMethodInLandingPage"/>
+          <include name="clickOnSignIn"/>
+        </methods>
+      </class> <!-- qa.SignIn.LoginPage.versaPay.LandingPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

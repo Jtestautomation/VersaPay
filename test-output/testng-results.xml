@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41326" started-at="2019-06-07T20:50:22Z" finished-at="2019-06-07T20:51:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41326" started-at="2019-06-07T20:50:22Z" finished-at="2019-06-07T20:51:03Z">
+      <class name="qa.SignIn.LoginPage.versaPay.LoginPageTest">
+        <test-method status="PASS" signature="setUpInParent(java.lang.String)[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="setUpInParent" is-config="true" duration-ms="13772" started-at="2019-06-07T20:50:08Z" finished-at="2019-06-07T20:50:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpInParent -->
+        <test-method status="PASS" signature="beforeClassInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeClassInLandingPage" is-config="true" duration-ms="122" started-at="2019-06-07T20:50:22Z" finished-at="2019-06-07T20:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="312" started-at="2019-06-07T20:50:22Z" finished-at="2019-06-07T20:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_02_loginWithEmptyEmailorPhone()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_02_loginWithEmptyEmailorPhone" duration-ms="2752" started-at="2019-06-07T20:50:23Z" finished-at="2019-06-07T20:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_loginWithEmptyEmailorPhone -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="131" started-at="2019-06-07T20:50:26Z" finished-at="2019-06-07T20:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="429" started-at="2019-06-07T20:50:26Z" finished-at="2019-06-07T20:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_03_loginWithSpecialCharInEmailorPhone()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_03_loginWithSpecialCharInEmailorPhone" duration-ms="2937" started-at="2019-06-07T20:50:26Z" finished-at="2019-06-07T20:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_loginWithSpecialCharInEmailorPhone -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="147" started-at="2019-06-07T20:50:29Z" finished-at="2019-06-07T20:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="233" started-at="2019-06-07T20:50:29Z" finished-at="2019-06-07T20:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_04_loginWithEmptyPassword()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_04_loginWithEmptyPassword" duration-ms="4694" started-at="2019-06-07T20:50:30Z" finished-at="2019-06-07T20:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_loginWithEmptyPassword -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="166" started-at="2019-06-07T20:50:34Z" finished-at="2019-06-07T20:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="270" started-at="2019-06-07T20:50:34Z" finished-at="2019-06-07T20:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_05_loginWithWrongPassword()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_05_loginWithWrongPassword" duration-ms="5279" started-at="2019-06-07T20:50:35Z" finished-at="2019-06-07T20:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_loginWithWrongPassword -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="119" started-at="2019-06-07T20:50:40Z" finished-at="2019-06-07T20:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="186" started-at="2019-06-07T20:50:40Z" finished-at="2019-06-07T20:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_06_ResetWithRegisteredEmail()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_06_ResetWithRegisteredEmail" duration-ms="2867" started-at="2019-06-07T20:50:40Z" finished-at="2019-06-07T20:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_06_ResetWithRegisteredEmail -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="107" started-at="2019-06-07T20:50:43Z" finished-at="2019-06-07T20:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="187" started-at="2019-06-07T20:50:43Z" finished-at="2019-06-07T20:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_07_ResetWithLastPasswordUsed()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_07_ResetWithLastPasswordUsed" duration-ms="9408" started-at="2019-06-07T20:50:43Z" finished-at="2019-06-07T20:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_07_ResetWithLastPasswordUsed -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="147" started-at="2019-06-07T20:50:53Z" finished-at="2019-06-07T20:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="beforeMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="beforeMethodInLandingPage" is-config="true" duration-ms="208" started-at="2019-06-07T20:50:53Z" finished-at="2019-06-07T20:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodInLandingPage -->
+        <test-method status="PASS" signature="TC_08_loginWithCorrectUserIdAndPassword()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="TC_08_loginWithCorrectUserIdAndPassword" duration-ms="9847" started-at="2019-06-07T20:50:53Z" finished-at="2019-06-07T20:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_08_loginWithCorrectUserIdAndPassword -->
+        <test-method status="PASS" signature="AfterMethodInLandingPage()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="AfterMethodInLandingPage" is-config="true" duration-ms="132" started-at="2019-06-07T20:51:03Z" finished-at="2019-06-07T20:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodInLandingPage -->
+        <test-method status="PASS" signature="afterMethodInBaseTest()[pri:0, instance:qa.SignIn.LoginPage.versaPay.LoginPageTest@5db45159]" name="afterMethodInBaseTest" is-config="true" duration-ms="998" started-at="2019-06-07T20:51:03Z" finished-at="2019-06-07T20:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodInBaseTest -->
+      </class> <!-- qa.SignIn.LoginPage.versaPay.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

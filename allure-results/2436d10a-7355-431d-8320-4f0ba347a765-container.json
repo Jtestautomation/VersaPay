@@ -1,0 +1,1 @@
+{"uuid":"2436d10a-7355-431d-8320-4f0ba347a765","name":"Default suite","start":1559850225446,"stop":1559850248885,"children":["8e2da4f4-bc81-4f1d-aa11-ccfb82000499"],"befores":[{"name":"setUpInParent","status":"passed","stage":"finished","description":"","start":1559850225508,"stop":1559850235627}]}
