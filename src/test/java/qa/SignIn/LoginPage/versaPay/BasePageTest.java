@@ -1,4 +1,4 @@
-package qa.SignIn.LoginPage.versaPay;
+ipaciiiiiikage qa.SignIn.LoginPage.versaPay;
 
 import java.util.concurrent.TimeUnit;
 
@@ -18,7 +18,7 @@ public class BasePageTest implements Constants {
 	WebDriver driver;
 	ReadProperties configFile;
 	WebDriverWait wait;
-
+//This is the line written from gitbash and pushed to github//
 
 	@Parameters({ "browser" })
 	@BeforeSuite 
